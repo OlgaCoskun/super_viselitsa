@@ -1,1 +1,5 @@
-# super_viselitsa
+# Программа *super_viselitsa*
+
+Для запуска:
+1. В консоли введите ```ruby viselitsa.rb```.
+2. Следуйте подсказкам программы.
